@@ -2,7 +2,7 @@
 
 > A dark theme for [XChat](http://xchat.org/).
 
-![Screenshot](http://i.imgur.com/Z2zrtce.png)
+![Screenshot](http://i.imgur.com/rmzAv7i.png)
 
 ## Install
 
