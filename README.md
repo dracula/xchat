@@ -2,7 +2,7 @@
 
 > A dark theme for [XChat](http://xchat.org/).
 
-![Screenshot](https://draculatheme.com/assets/img/screenshots/xchat.png)
+![Screenshot](./screenshot.png)
 
 ## Install
 
